@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Hactooberfest
+- 🔭 I’m currently working on a mobile game
 - 🌱 I’m currently learning Web Devlopment
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with 
