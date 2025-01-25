@@ -4,7 +4,7 @@
 ## About me:-
   <p>A passionate full stack developer who likes to make projects and push his limits.</p>
   <ul>
-    <li> 👨🏻‍💻I'm currently making <a href="https://doodliee.tech">Doodliee</a>.</li>
+    <li> 👨🏻‍💻I'm currently making <a href="https://doodliee.com">Doodliee</a>.</li>
     <li> 👯‍♂️I'm looking to collabarate with other developers. </li>
     <li> 😺Fun Fact: I also make games sometimes</li>
   </ul>
