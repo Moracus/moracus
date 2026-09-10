@@ -11,7 +11,6 @@
   
 ## connect with me:
 <a href="https://www.linkedin.com/in/harsh-sharma-027468201"><img  align="left" href="www.linkedin.com/in/harsh-sharma-027468201"  alt="js" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" style="padding-right:10px" /></a>
-<a href="https://x.com/moracush"><img  align="left" href="www.linkedin.com/in/harsh-sharma-027468201"  alt="js" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" style="padding-right:10px" /></a>
 <br/>
 <br/>
 
